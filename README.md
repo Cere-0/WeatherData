@@ -1,4 +1,5 @@
 ## WeatherData
+Using python and plotly.
 ### [Link to the notebook (Sitka, Alaska)](https://github.com/Cere-0/WeatherData/blob/main/sika_temperature.ipynb)
 
 ![Output](https://github.com/Cere-0/WeatherData/blob/main/output/daily-high-temperatures-sitka-alaska.png?raw=true)
